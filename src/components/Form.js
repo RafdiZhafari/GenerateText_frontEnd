@@ -21,7 +21,7 @@ const Form =({items})=>{
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",
-                    "Authorization": "Token 3f3518079c602c8635aaae004d6ebc07e4fe7a50",
+                    "Authorization": "",
                 },
                 body: JSON.stringify({features: inputText}),
             })
