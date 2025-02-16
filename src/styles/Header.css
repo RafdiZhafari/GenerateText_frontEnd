@@ -1,0 +1,15 @@
+.nav{
+    display: flex;
+    background-color: honeydew;
+    padding: 0 6rem;
+    justify-content: space-between;
+    color: black;
+    align-items: center;
+}
+
+#ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+}

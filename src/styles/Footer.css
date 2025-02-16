@@ -1,0 +1,10 @@
+.footer{
+    display: flex;
+    background-color: honeydew;
+    justify-content: space-between;
+    color: black;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
